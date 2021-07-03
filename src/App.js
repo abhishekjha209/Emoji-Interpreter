@@ -37,7 +37,7 @@ function App() {
           )
         }
       </div>
-      <div className="footer">Check out source code at <a href="http://github.com/ashwinkhode">Github</a></div>
+      <div className="footer">Check out source code at <a href="https://github.com/abhishekjha209/Emoji-Interpreter">Github</a></div>
     </div>
   );
 }
